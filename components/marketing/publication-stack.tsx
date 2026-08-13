@@ -33,7 +33,7 @@ const defaultBooks: Book[] = [
   {
     id: "book-3",
     title: "Indian Actuarial Climate Index",
-    href: "/news", // Fallback until official URL is provided
+    href: "https://climateindex.sssia.org", 
     rotation: "rotate-3",
     zIndex: 20,
     offset: "translate-x-56 -translate-y-12 md:translate-x-44 md:translate-y-32 scale-90",
